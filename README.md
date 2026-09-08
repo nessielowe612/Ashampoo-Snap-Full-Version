@@ -1,0 +1,1 @@
+# Ashampoo-Snap-Full-Version
