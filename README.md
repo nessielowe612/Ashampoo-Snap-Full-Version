@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ashampoo Snap. The softw
 **Get the most recent version of Ashampoo Snap today!**
 
 ---
-**Last updated:** 2026-09-17 23:11:56 UTC
+**Last updated:** 2026-09-18 01:54:47 UTC
